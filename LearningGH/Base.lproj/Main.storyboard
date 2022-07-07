@@ -23,10 +23,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="figure.wave" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="6hJ-RO-N0S">
-                                <rect key="frame" x="87" y="288.5" width="240" height="130"/>
+                                <rect key="frame" x="157" y="266.5" width="100" height="152"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="128" id="JYf-LG-9IG"/>
-                                    <constraint firstAttribute="width" constant="240" id="MXT-Vn-McK"/>
+                                    <constraint firstAttribute="height" constant="150" id="JYf-LG-9IG"/>
+                                    <constraint firstAttribute="width" constant="100" id="MXT-Vn-McK"/>
                                 </constraints>
                             </imageView>
                         </subviews>
