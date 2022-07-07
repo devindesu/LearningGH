@@ -21,6 +21,7 @@
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="figure.wave" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="6hJ-RO-N0S">
                                         <rect key="frame" x="0.0" y="-1" width="100" height="152"/>
+                                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="150" id="JYf-LG-9IG"/>
                                             <constraint firstAttribute="width" constant="100" id="MXT-Vn-McK"/>
@@ -28,6 +29,7 @@
                                     </imageView>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="figure.wave" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Ivd-LE-tgj">
                                         <rect key="frame" x="100" y="-1" width="100" height="152"/>
+                                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="150" id="Kwp-Sz-nQp"/>
                                             <constraint firstAttribute="width" constant="100" id="fzC-zx-dTR"/>
