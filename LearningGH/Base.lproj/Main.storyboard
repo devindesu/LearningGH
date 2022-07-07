@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YVG-eR-JLG">
-                                <rect key="frame" x="107" y="268" width="200" height="150"/>
+                                <rect key="frame" x="57" y="268" width="300" height="150"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="figure.wave" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="6hJ-RO-N0S">
                                         <rect key="frame" x="0.0" y="-1" width="100" height="152"/>
@@ -31,6 +31,13 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="150" id="Kwp-Sz-nQp"/>
                                             <constraint firstAttribute="width" constant="100" id="fzC-zx-dTR"/>
+                                        </constraints>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="figure.wave" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="HFX-K8-MJM">
+                                        <rect key="frame" x="200" y="-1" width="100" height="152"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="150" id="Agg-rQ-UMb"/>
+                                            <constraint firstAttribute="width" constant="100" id="mEO-q2-pUV"/>
                                         </constraints>
                                     </imageView>
                                 </subviews>
